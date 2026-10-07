@@ -3,10 +3,6 @@
 // =========================
 // Intentionally includes a few ESLint "style" issues for teaching
 
-
-var __INTERNAL_DEBUG = false;
-
-
 class UserDAO {
     constructor(db) {
     this.db = db

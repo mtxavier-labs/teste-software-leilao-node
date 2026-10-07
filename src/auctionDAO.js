@@ -1,4 +1,3 @@
-const unusedVariable = 'teste';
 
 class AuctionDAO {
     constructor(db){ this.db = db }
